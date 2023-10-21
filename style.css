@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(78, 150, 168);
+}
+hr{
+    color: rgb(95, 122, 31);
+}
+h1{
+    color: rgb(112, 14, 112);
+    font-size: 26px;
+}
+h2{
+    color: pink;
+    font-size: 22px;
+}
+h3{
+    color: aqua;
+    font-size: 20px;
+}
+p{
+    color: rgb(204, 221, 220);
+    font-size: 18px;
+}
